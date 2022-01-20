@@ -1,0 +1,5 @@
+You can find the inducing code here. 
+
+https://nbviewer.org/github/tnolle/binet/blob/master/notebooks/3.2%20Dataset%20Information.ipynb
+
+the json.gz files need to be inserted into this directory.

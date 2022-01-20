@@ -1,0 +1,5 @@
+You can find the inducing code here. 
+
+https://github.com/IELunist/Autoencoders-for-Improving-Quality-of-Process-Event-Logs/tree/master/event-log-reconstruction-master/data_preprocessing
+
+The csv files is what you need to copy into this folder
